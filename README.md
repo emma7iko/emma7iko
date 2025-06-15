@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Emmanuel Matiko</h2><br>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on <b>Business Information Systems</b><br>🌱 I’m currently learning <b>SAP System</b>
 
 
