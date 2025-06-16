@@ -99,11 +99,6 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-
 ## 🎬 Motion Graphic (Profile Views Counter)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Emmatiko101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
