@@ -3,7 +3,7 @@
 
 ---
 
-## 📬 Connect with Me:
+## 📬 Connect with me:
 <p align="center">
   <a href="https://tiktok.com/@.emmatiko" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
