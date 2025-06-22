@@ -17,9 +17,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=Emmatiko101&theme=radical&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmatiko101&layout=compact&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmatiko101&theme=radical&show_icons=true&hide_border=false" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=emma7iko&theme=radical&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma7iko&layout=compact&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emma7iko&theme=radical&show_icons=true&hide_border=false" />
 </p>
 
 ---
@@ -79,7 +79,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emmatiko101&theme=radical&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=emma7iko&theme=radical&no-frame=true&margin-w=5" />
 </p>
 
 ---
