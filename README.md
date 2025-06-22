@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Matiko</h1>
-<h3 align="center">🚀 Business Information Systems Enthusiast | 🌱 Currently Learning SAP</h3>
+<h3 align="center">🚀 Business Information Systems Enthusiast</h3>
 
 ---
 
