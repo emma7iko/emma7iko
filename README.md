@@ -1,32 +1,43 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Matiko</h1>
-<h3 align="center">🚀 Business Information Systems Enthusiast</h3>
+<!-- HEADER -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />  
+  Hey there, I'm <span style="color:#FF61D8">Emmanuel Matiko</span> 🚀
+</h1>
+
+<h3 align="center">💡 Business Information Systems Enthusiast | Full-Stack Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Building+data-driven+solutions...;Exploring+Business+Information+Systems...;Always+learning+and+creating+🚀">
+</p>
 
 ---
 
-## 📬 Connect with me:
+## 📬 Connect with Me
 <p align="center">
   <a href="https://tiktok.com/@.emmatiko" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
   </a>
   <a href="mailto:emmanuel.kichuki@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Insights
 <p align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=emma7iko&theme=radical&hide_border=false" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma7iko&layout=compact&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api?username=emma7iko&theme=radical&show_icons=true&hide_border=false" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=emma7iko&theme=radical&hide_border=false" alt="Streak Stats" />
+   <br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=emma7iko&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma7iko&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Arsenal
+<details>
+<summary>🧠 Languages & Frameworks</summary>
 
-### 🧠 Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,43 +46,38 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</details>
 
----
+<details>
+<summary>🎨 Styling & UI</summary>
 
-### 🎨 Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+</details>
 
----
+<details>
+<summary>🛠️ Tools & Platforms</summary>
 
-### 🗂️ Tools & Platforms
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+</details>
 
----
+<details>
+<summary>⚙️ Others</summary>
 
-### ⚙️ Others
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+</details>
 
 ---
 
-### 🎮 Miscellaneous
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-
----
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emma7iko&theme=radical&no-frame=true&margin-w=5" />
 </p>
@@ -79,9 +85,8 @@
 ---
 
 ## 🎯 Current Focus
-- 🛠️ Working on **Business Information Systems**
-- 🌱 Learning **SAP System** and exploring **Power BI**
-- 🤝 Open to **collaboration** on full-stack & data-driven projects
+- 🛠️ Building **Business Information Systems**
+- 🌱 Learning **SAP Systems** & **Power BI**
+- 🤝 Open to **collaborations** on full-stack & data-driven projects
 
 ---
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
