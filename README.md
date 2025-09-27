@@ -1,4 +1,8 @@
 <!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Emmatiko&fontAlign=50&fontAlignY=40&color=0:FF61D8,100:00FFFF&animation=twinkling&fontColor=ffffff&fontSize=50"/>
+</p>
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />  
   Hey there, I'm <span style="color:#FF61D8">Emmanuel Matiko</span> 🚀
