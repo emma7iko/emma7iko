@@ -8,7 +8,7 @@
   Hey there, I'm <span style="color:#FF61D8">Emmanuel Matiko</span> 🚀
 </h1>
 
-<h3 align="center">💡 Business Information Systems Enthusiast | Full-Stack Explorer</h3>
+<h3 align="center">💡 Business Information Systems Enthusiast | 💪 Full-Stack Explorer | ❤️ Garuda Hyprland</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+data-driven+solutions...;Exploring+Business+Information+Systems...;Always+learning,+creating+and+having+fun🚀">
