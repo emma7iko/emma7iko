@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Emmatiko&fontAlign=50&fontAlignY=40&color=0:00FFFF,50:FF00FF,100:8000FF&animation=twinkling&fontColor=ffffff&fontSize=120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Emmatiko&fontAlign=50&fontAlignY=40&color=0:00FFFF,50:FF00FF,100:8000FF&animation=twinkling&fontColor=ffffff&fontSize=130"/>
 </p>
 
 <h1 align="center">
