@@ -91,7 +91,7 @@
 
 ## 🎯 Current Focus
 - 🛠️ Building **Business Information Systems**
-- 🌱 Learning **SAP Systems** & **Power BI**
+- 🌱 Learning **SAP Systems**
 - 🤝 Open to **collaborations** on full-stack & data-driven projects
 
 ---
