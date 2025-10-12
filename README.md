@@ -35,6 +35,9 @@
    <img src="https://github-readme-stats.vercel.app/api?username=emma7iko&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma7iko&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emma7iko&theme=radical" alt="Profile Summary Card"/>
+</p>
 
 ---
 
