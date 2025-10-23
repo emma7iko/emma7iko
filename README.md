@@ -11,7 +11,7 @@
 <h3 align="center">💡 Business Information Systems Enthusiast | 💪 Full-Stack Explorer | ❤️ Garuda Hyprland</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+Solutions+Related+to+Financial+Data;Exploring+Business+Information+Systems...;Always+learning,+creating+and+having+fun🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+Solutions+Related+to+Financial+Data;Exploring+Business+Information+Systems...;Always+Learning,+Creating+and+Having+Fun🚀">
 </p>
 
 ---
