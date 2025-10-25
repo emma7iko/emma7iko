@@ -41,7 +41,7 @@
 
 ---
 
-## 💻 Tech Arsenal
+## 🖳 Tech Arsenal
 <p>(Expand to see more)</p>
 <details>
 <summary>🧠 Languages & Frameworks</summary>
