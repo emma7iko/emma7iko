@@ -84,13 +84,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emma7iko&theme=radical&no-frame=true&margin-w=5" />
-</p>
-
----
-
 ## 🎯 Current Focus
 - 🛠️ Building **Business Information Systems**
 - 🌱 Learning **SAP Systems**
