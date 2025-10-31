@@ -86,3 +86,9 @@
 - 🤝 Open to **collaborations** on full-stack & data-driven projects
 
 ---
+
+# 📄 DECLARATION:
+<p>By the power vested in me, by me 😎🤏, I hereby declare that the above information truly (I mean <i>honestly</i>) reflects my taste in programming and activity on this aah platform.</p><br><br>  
+<p>I further admit, without shame, to continuously combine the mentioned superpowers in my so-called “projects” while staying nerdly attached to Linux, specifically <b>❤️Garuda Linux❤️</b>, as if it were the "only" Linux I know 🤗.</p>
+
+---
