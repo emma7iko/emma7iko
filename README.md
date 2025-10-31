@@ -30,8 +30,6 @@
 
 ## 📊 GitHub Insights
 <p align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=emma7iko&theme=radical&hide_border=false" alt="Streak Stats" />
-   <br/>
    <img src="https://github-readme-stats.vercel.app/api?username=emma7iko&theme=radical&show_icons=true&hide_border=false" alt="GitHub Stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emma7iko&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
