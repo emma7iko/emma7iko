@@ -13,7 +13,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Big+Enthusiast+in+Business+and+IT😊;Love+how+Business+Info+Systems+Work;Amapianoooo🔊🔥+🙂">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=2000&color=00FFFF&center=true&vCenter=true&width=600&lines=Big+Enthusiast+in+Business+and+IT😊;Love+how+Business+Info+Systems+Work;AMAPIANOOOOOOOO!!🔊🔥+🙂">
 </p>
 
 ---
