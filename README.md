@@ -100,7 +100,7 @@ By the power vested in me, by me 😎🤏, I hereby declare that the above infor
 </p>
 
 <p>
-I further admit, without shame, to continuously combine the mentioned superpowers in my so-called “projects” while staying nerdly attached to Linux, specifically <b>❤️Garuda Linux❤️</b>, as if it were the "only" Linux I know 🤗.
+I further admit, without shame, to continuously combine the mentioned superpowers in my so-called “projects” while staying nerdly attached to Linux, specifically <b>Ryoku Linux</b>, as if it were the "only" Linux I know.
 </p>
 
 ---
